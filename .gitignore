@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# tmp files
+*.tmp
+
+# IntelliJ IDEA Files
+*.iml
+.idea/
